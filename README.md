@@ -4,6 +4,6 @@
 #### راهنما ❗
 <hr>
 
-`git clone ` 💡
+`git clone https://github.com/Alirezamajidiyan/MusicTag-Editor-.git` 💡
 
-##### open software 😁
+##### باز کردن نرم افزار همین :)
